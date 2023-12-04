@@ -13,3 +13,13 @@ section > article {
 	border: 1px solid black;
 
 }
+
+footer p {
+
+	color: red ;
+}
+
+footer {
+
+	background-color: blue;
+}
